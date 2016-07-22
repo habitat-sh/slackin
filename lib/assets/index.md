@@ -105,6 +105,10 @@ move in [Chef RFC 74](https://github.com/chef/chef-rfc/blob/master/rfc074-commun
 * **Can I Use My Supermarket or Discourse Account?**
   * Unfortunately not at this time. For now your Slack account is independent of
 the other Chef community tools.
+* **Where I Can Find Logs Of Slack Channels?**
+  * You can find a permanent, searchable archive of our Slack channels at [SlackArchive](http://chefcommunity.slackarchive.io/).
+You can also search the last ten thousand messages from within the Slack client. Be aware that archiving must be configured
+for each channel by inviting the `@slack_archive_bot` account.
 * **Where Else Can I Find Help With Chef?**
   * We have a mailing list and forum at [discourse.chef.io](https://discourse.chef.io/)
 if you prefer a more asynchronous approach. We also have volunteers on
