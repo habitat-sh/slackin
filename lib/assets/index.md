@@ -115,9 +115,7 @@ if you prefer a more asynchronous approach. We also have volunteers on
 [StackOverflow](https://stackoverflow.com/tags/chef). If volunteer support isn't
 available, you can reach Chef Software's support team at [support@chef.io](mailto:support@chef.io).
 * **I Really Like IRC, What Do I Do?**
-  * The `#chef` IRC channel will be bridge to Slack for the foreseeable future, so
-you can continue to join in the discussion there, albeit with a reduced
-experience. Additionally Slack does offer an [IRC gateway](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP),
+  * Slack does offer an [IRC gateway](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP),
 though it has historically had some stability issues.
 
 </div>
