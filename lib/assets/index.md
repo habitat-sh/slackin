@@ -28,18 +28,18 @@ To register for our Slack team, please enter your email address below. Whatever
 address you use with be visible to other Slack users, but can be any address
 you want to use.
 
-<iframe src="/iframe/dialog" frameBorder=0 style="border: 0"> </iframe>
-
-Once you submit the signup form you'll receive an email from Slack to continue
-the signup process. Once you finish the signup process you can use Slack via
-their web application or [download a desktop or mobile client](https://slack.com/downloads).
-
 The Chef community is a mixture of professionals and volunteers who come from
 all over the world and work together to make Chef better. Community members
 fulfill many roles, including mentoring, teaching, and connecting with other
 members of the community.  All participants in the Chef Community Slack agree to
 follow the [Chef Community
 Guidelines](https://github.com/chef/chef-rfc/blob/master/rfc020-community-guidelines.md).
+
+<iframe src="/iframe/dialog" frameBorder=0 style="border: 0"> </iframe>
+
+Once you submit the signup form you'll receive an email from Slack to continue
+the signup process. Once you finish the signup process you can use Slack via
+their web application or [download a desktop or mobile client](https://slack.com/downloads).
 
 </div>
 <div class="row">
@@ -115,9 +115,7 @@ if you prefer a more asynchronous approach. We also have volunteers on
 [StackOverflow](https://stackoverflow.com/tags/chef). If volunteer support isn't
 available, you can reach Chef Software's support team at [support@chef.io](mailto:support@chef.io).
 * **I Really Like IRC, What Do I Do?**
-  * The `#chef` IRC channel will be bridge to Slack for the foreseeable future, so
-you can continue to join in the discussion there, albeit with a reduced
-experience. Additionally Slack does offer an [IRC gateway](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP),
+  * Slack does offer an [IRC gateway](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP),
 though it has historically had some stability issues.
 
 </div>
