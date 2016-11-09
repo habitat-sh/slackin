@@ -6,18 +6,18 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="assets/normalize.css">
 <link rel="stylesheet" href="assets/skeleton.css">
-<title>Join the Chef Community on Slack</title>
+<title>Join the Habitat Community on Slack</title>
 <style>.container, .row { margin-top: 3rem }</style>
 </head>
 <body>
 <div class="container">
 <div class="row">
 
-# Chef Community Slack
+# Habitat Community Slack
 
-Hello and welcome! This page will walk you through joining and using the Chef
-community Slack team. If you have any questions about anything here, please
-don't hesitate to contact us at [slack@chef.io](mailto:slack@chef.io).
+Hello and welcome! This page will walk you through joining and using the Habitat
+Community Slack team. If you have any questions about anything here, please
+don't hesitate to contact us at [humans@habitat.sh](mailto:humans@habitat.sh).
 
 </div>
 <div class="row">
@@ -28,12 +28,11 @@ To register for our Slack team, please enter your email address below. Whatever
 address you use with be visible to other Slack users, but can be any address
 you want to use.
 
-The Chef community is a mixture of professionals and volunteers who come from
-all over the world and work together to make Chef better. Community members
+The Habitat community is a mixture of professionals and volunteers who come from
+all over the world and work together to make Habitat better. Community members
 fulfill many roles, including mentoring, teaching, and connecting with other
-members of the community.  All participants in the Chef Community Slack agree to
-follow the [Chef Community
-Guidelines](https://github.com/chef/chef-rfc/blob/master/rfc020-community-guidelines.md).
+members of the community.  By joining the Habitat Community Slack you are agreeing
+to follow the [Habitat Community Code of Conduct](https://github.com/habitat-sh/habitat/blob/master/CODE_OF_CONDUCT.md).
 
 <iframe src="/iframe/dialog" frameBorder=0 style="border: 0"> </iframe>
 
@@ -59,7 +58,7 @@ channels menu on the left.
 ### Setting Up Your Slack Profile
 
 Once registered for Slack, you can customize your profile [through the Slack
-website](https://chefcommunity.slack.com/account/profile).
+website](https://habitat-sh.slack.com/account/profile).
 Here you can set the name and avatar people will see when you chat with them.
 
 ![Set your name and avatar](assets/set_name.gif)
@@ -95,24 +94,20 @@ less critical than they originally thought.
 
 * **What Is Slack?**
   * Slack is a real-time chat system similar to IRC or Jabber. Here you can find
-Chef community members to ask questions, learn more about Chef, or socialize
+Habitat community members to ask questions, learn more about Habitat, or socialize
 with our awesome community.
 * **Why Slack?**
-  * Chef used IRC for our community chat for many years, however stagnation of the
-user experience for IRC combined with many improvements available from Slack
-prompted us to reconsider this. You can read more about the rationale of the
-move in [Chef RFC 74](https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md).
+  * Stagnation of the user experience for IRC combined with many improvements available from Slack prompted us to avoid launching the Habitat Community on IRC. As Chef planned to move to Slack, we decided to _start_ on slack.
 * **Can I Use My Supermarket or Discourse Account?**
   * Unfortunately not at this time. For now your Slack account is independent of
-the other Chef community tools.
+the other Habitat or Chef community tools.
 * **Where I Can Find Logs Of Slack Channels?**
-  * You can find a permanent, searchable archive of our Slack channels at [SlackArchive](http://chefcommunity.slackarchive.io/).
+  * You can find a permanent, searchable archive of our Slack channels at [SlackArchive](http://habitat-sh.slackarchive.io/general/).
 You can also search the last ten thousand messages from within the Slack client. Be aware that archiving must be configured
 for each channel by inviting the `@slack_archive_bot` account.
-* **Where Else Can I Find Help With Chef?**
-  * We have a mailing list and forum at [discourse.chef.io](https://discourse.chef.io/)
-if you prefer a more asynchronous approach. We also have volunteers on
-[StackOverflow](https://stackoverflow.com/tags/chef). If volunteer support isn't
+* **Where Else Can I Find Help With Habitat?**
+  * We have a forum at [forums.habitat.sh](https://forums.habitat.sh/)
+if you prefer a more asynchronous approach. If support isn't
 available, you can reach Chef Software's support team at [support@chef.io](mailto:support@chef.io).
 * **I Really Like IRC, What Do I Do?**
   * Slack does offer an [IRC gateway](https://get.slack.help/hc/en-us/articles/201727913-Connecting-to-Slack-over-IRC-and-XMPP),
