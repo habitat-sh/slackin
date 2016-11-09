@@ -106,7 +106,7 @@ the other Habitat or Chef community tools.
 You can also search the last ten thousand messages from within the Slack client. Be aware that archiving must be configured
 for each channel by inviting the `@slack_archive_bot` account.
 * **Where Else Can I Find Help With Habitat?**
-  * We have a mailing list and forum at [forums.habitat.sh](https://forums.habitat.sh/)
+  * We have a forum at [forums.habitat.sh](https://forums.habitat.sh/)
 if you prefer a more asynchronous approach. If support isn't
 available, you can reach Chef Software's support team at [support@chef.io](mailto:support@chef.io).
 * **I Really Like IRC, What Do I Do?**
